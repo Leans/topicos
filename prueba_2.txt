@@ -1,7 +1,7 @@
 primera prueba
 
-a. 
-b. 
-c. 
-d. 
-e. 
+a) Introduccion
+b) Prologo
+c) Desarrollo
+d) Conclusion
+e) Referencias
