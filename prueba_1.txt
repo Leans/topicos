@@ -1,7 +1,7 @@
 primera prueba
 
-1. intro
-2. prologo
-3. desarrollo
-4. conclusion
-5. refs
+1. Introduccion
+2. Prologo
+3. Desarrollo
+4. Conclusion
+5. Referencias
