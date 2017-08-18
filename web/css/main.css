@@ -1,0 +1,172 @@
+@charset "iso-8859-1";
+
+#dial {
+	background: url("img/crono/dual_crono_f.png") no-repeat scroll 0 0;
+	width: 850px;
+    height:1000px;
+	position: absolute;
+	transform:rotateY(0deg);
+	-webkit-transform:rotateY(0deg);
+	transform-style: preserve-3d;
+	-webkit-transform-style: preserve-3d;
+	margin:220px 0 0 100px;
+}
+
+#pulsadores_box {
+	position: absolute;
+	width:200px;
+	height:203px;
+	margin:417px 0 0 456px;
+}
+
+#pulsador-1 {
+	background: url("img/crono/pulsador_1.png") no-repeat scroll 0 0;
+	position: absolute;
+	cursor:pointer;
+	margin:-172px 0 0 -14px;
+	width:75px;
+	height:75px;
+}
+
+#pulsador-2 {
+	background: url("img/crono/pulsador_2.png") no-repeat scroll 0 0;
+	position: absolute;
+	cursor:pointer;
+	margin:68px 0 0 -14px;
+	width:75px;
+	height:75px;
+}
+
+#pulsador-3 {
+	background: url("img/crono/pulsador_3.png") no-repeat scroll 0 0;
+	position: absolute;
+	cursor:pointer;
+	margin:-134px 100px 0 -445px;
+	width:75px;
+	height:75px;
+}
+
+#segundo_box {
+	width:116px;
+	height:116px;
+	margin:371px 0 0 135px;
+	
+	position: absolute;
+    list-style: none;
+	transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
+	-webkit-transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
+	transform-style:preserve-3d;
+	-webkit-transform-style:preserve-3d;
+	padding:0;
+	
+}
+
+#segundo {
+	background: url("img/crono/segundo.png");
+	position: absolute;
+    width: 116px;
+    height: 116px;
+    top: 0px;
+    left: 0;
+}
+
+#crono_minuto_box {
+	width:116px;
+	height:116px;
+	margin:372px 0 0 290px;
+	
+	position: absolute;
+    list-style: none;
+	transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
+	-webkit-transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
+	transform-style:preserve-3d;
+	-webkit-transform-style:preserve-3d;
+	padding:0;
+}
+
+#ratt_minuto {
+	background: url("img/crono/ratt_minuto.png");
+	position: absolute;
+    width: 116px;
+    height: 116px;
+    top: 0px;
+    left: 0;
+}
+
+#crono_minuto {
+	background: url("img/crono/crono_minuto.png");
+	position: absolute;
+    width: 116px;
+    height: 116px;
+    top: 0px;
+    left: 0;
+}
+
+#dial_box {
+	width:342px;
+	height:342px;
+	margin:227px 0 0 99px;
+	
+	position: absolute;
+    list-style: none;
+	transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
+	-webkit-transform:rotateX(0deg) rotateY(0deg) rotateZ(0deg) translateZ(0px);
+	transform-style:preserve-3d;
+	-webkit-transform-style:preserve-3d;
+	padding:0;
+	
+}
+
+#hora {
+	background: url("img/crono/hora.png");
+	position: absolute;
+    width: 342px;
+    height: 342px;
+    top: 0px;
+    left: 0;
+}
+
+#minuto {
+	background: url("img/crono/minuto.png");
+	position: absolute;
+    width: 342px;
+    height: 342px;
+    top: 0px;
+    left: 0;
+}
+
+#ratt_segundo {
+	background: url("img/crono/ratt_segundo.png");
+	position: absolute;
+    width: 342px;
+    height: 342px;
+    top: 0px;
+    left: 0;
+}
+
+#top-dorado {
+	background: url("img/crono/top_dorado.png");
+	position: absolute;
+    width: 342px;
+    height: 342px;
+    top: 0px;
+    left: 0;
+}
+
+#crono_segundo {
+	background: url("img/crono/crono_segundo.png");
+	position: absolute;
+    width: 342px;
+    height: 342px;
+    top: 0px;
+    left: 0;
+}
+
+#top-azul {
+	background: url("img/crono/top_azul.png");
+	position: absolute;
+    width: 342px;
+    height: 342px;
+    top: 0px;
+    left: 0;
+}
