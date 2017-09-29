@@ -1,10 +1,10 @@
-
 /**
  * Inicializa variables a y b, Imprime el resultado de operaciones entre a y b.
  * 
  * @author Sabaren, Leandro N. 
  * @version (a version number or a date)
  */
+
 public class Ejercicio1
 {
     public static void main (String [] args){
